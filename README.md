@@ -68,19 +68,19 @@ My name is Eddie, I'm a QA Engineer.
 <br>
 
 ## 🪴 Internship and practice
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Certificate of completion of internship">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/qa%20studio.png)
 
 
 <br>
 
-## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png](https://github.com/Eduard-QAcz/Eduard-QAcz/blob/main/qa%20studio.png))
+## 🎒 Education
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Diploma»">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/qa%20studio.png)
 
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Contact
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:edik.str102@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kilka_e)
 
