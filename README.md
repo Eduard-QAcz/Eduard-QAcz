@@ -68,13 +68,13 @@ My name is Eddie, I'm a QA Engineer.
 <br>
 
 ## 🪴 Internship and practice
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Certificate of completion of internship">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/qa%20studio.png)
+[<img src="/auto ae.png" width="280px" hspace="10px" alt="Certificate of completion of internship">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/auto%20ae.png)
 
 
 <br>
 
 ## 🎒 Education
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Diploma»">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/qa%20studio.png)
+[<img src="/qa studio.png" width="280px" hspace="10px" alt="Diploma»">](https://raw.githubusercontent.com/Eduard-QAcz/Eduard-QAcz/refs/heads/main/qa%20studio.png)
 
 
 <br>
